@@ -1,0 +1,162 @@
+body {
+    
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+#landing-div{
+    background-image: url(img/hero.jpg);
+    background-size: cover;
+    height: 90vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#logo {
+    height: 18px;
+    width: auto;
+    float: left;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+
+#nav-bar {
+    float: right;
+    margin-left: 20px;
+    font-size: 80%;
+    font-weight: 900;
+}
+
+#nav-bar li {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ce194f;
+    ;
+}
+
+#home-link {
+    color: #ce194f;
+    ;
+}
+
+#center-div-title {
+    position: absolute;
+    width: 1000px;
+    top: 35%;
+    left: 15%;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 300;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 200%;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+
+#line {
+    width: 200px;
+    height: 47px;
+    border-bottom: 2px solid #ce194f;
+    position: absolute;
+    left: 39%;
+    top: 5%;
+}
+
+#center-div-text {
+    line-height: 200%;
+    width: 100%;
+    font-size: 118%;
+    color: white;
+    font-family: 'Lato';
+    font-style: italic;
+    word-spacing: 2px;
+    text-align: center;
+}
+
+#btn {
+    height: 50px;
+    width: 180px;
+    background-color: #ce194f;
+    border: 1px solid #ce194f;
+    position: absolute;
+    top: 504px;
+    left: 631px;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    font-weight: 900;
+    font-size: 15px;
+}
+#second-div{
+    background-color:rgba(231, 231, 231, 0.521);
+    background-size: cover;
+    height: 90vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+#second-div-text{
+    float: left;
+    text-align: justify;
+    width: 700px;
+    height: 500px;
+}
+h2{
+    line-height: 100%;
+    width: 100%;
+    font-size: 160%;
+    color:rgb(143, 132, 132);
+    font-family: 'Lato';
+    font-style: italic;
+    word-spacing: 1px;
+    margin-left: 152px;
+    margin-top: 50px;
+}
+#line-pc{
+    width: 200px;
+    height: 47px;
+    border-bottom: 2px solid #ce194f;
+    position: absolute;
+    margin-left: 152px;
+}
+
+#second-div-pc{
+    float: right;
+}
+#pc{
+    margin-top: 50px;
+    height: 500px;
+    width: 800px;
+}
+#second-div-paragraph{
+    color: rgb(143, 132, 132);
+    margin-top: 95px;
+    margin-left: 152px;
+    width: 422px;
+    font-size: 15px;
+
+}
+
+
+    
+   
