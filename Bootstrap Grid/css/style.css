@@ -1,0 +1,9 @@
+.brick{
+    background-color: brown;
+    height: 80px;
+    width: 100%;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
